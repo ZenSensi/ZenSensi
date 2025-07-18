@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on an AI Startup named Arenoi - AI Therapist
+Currently working on an AI Startup named Arenoi - AI Therapist
 
 
 ## 🌐 Socials:
