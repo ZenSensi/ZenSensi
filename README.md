@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working as Co-Founder in AI Startup named Arenoi - AI Therapist
+Founder of Hubrave
 
 
 ## 🌐 Socials:
