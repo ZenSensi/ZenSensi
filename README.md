@@ -115,25 +115,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 </div>
 
-To get a live Pac-Man eating your real contribution squares (like the strip below), wire up **[abozanona/pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph)** — it's a GitHub Action that regenerates the SVG from your actual contribution calendar every few hours:
-
-1. Add the action to a workflow in this repo (`ZenSensi/ZenSensi`) — copy the example workflow from that project's README.
-2. Set `github_user_name: ZenSensi` in the workflow input.
-3. Let Actions write to the repo (Settings → Actions → General → Workflow permissions → Read and write).
-4. Run the workflow once, then embed:
-
-​```md
-![Pac-Man contribution graph](https://raw.githubusercontent.com/ZenSensi/ZenSensi/output/pacman.svg)
-​```
-
-Swap that image tag in for the placeholder GIF above once it's live.
-
----
-
-## 🐍 Contribution Snake (alternative)
-
-If you'd rather run the classic snake-eats-your-graph animation instead of/alongside Pac-Man, use **[Platane/snk](https://github.com/Platane/snk)** — same setup pattern (Action → output branch → embed SVG).
-
 ---
 
 <div align="center">
