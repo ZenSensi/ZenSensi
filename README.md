@@ -8,8 +8,6 @@
 
 </div>
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif">
-
 ## 🌸 About Me
 
 - 🚀 Founder & CEO of **[Hubrave](#)** — a tech-driven digital agency
@@ -18,8 +16,6 @@
 - 📚 Studying BCA (Data Science & AI) at SRMU
 - 📍 Based in Lucknow, India
 - 🎯 Goal: scale Hubrave into a company that matters — not just another agency
-
-<br clear="both">
 
 ---
 
@@ -130,9 +126,9 @@ To get a live Pac-Man eating your real contribution squares (like the strip belo
 3. Let Actions write to the repo (Settings → Actions → General → Workflow permissions → Read and write).
 4. Run the workflow once, then embed:
 
-```md
+​```md
 ![Pac-Man contribution graph](https://raw.githubusercontent.com/ZenSensi/ZenSensi/output/pacman.svg)
-```
+​```
 
 Swap that image tag in for the placeholder GIF above once it's live.
 
