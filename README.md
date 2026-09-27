@@ -8,6 +8,32 @@
 
 </div>
 
+## 🎮 Play Tic-Tac-Toe Against My Bot
+
+<!-- TTT_START -->
+<div align="center">
+
+**Your move. Can you beat the bot?**
+
+<table>
+<tr><td align="center" width="60" height="60"><a href="https://github.com/ZenSensi/ZenSensi/issues/new?title=ttt%7Cmove%7C0&body=Just+press+%22Create%22.+The+bot+replies+in+about+30+seconds.">⬜</a></td><td align="center" width="60" height="60"><a href="https://github.com/ZenSensi/ZenSensi/issues/new?title=ttt%7Cmove%7C1&body=Just+press+%22Create%22.+The+bot+replies+in+about+30+seconds.">⬜</a></td><td align="center" width="60" height="60"><a href="https://github.com/ZenSensi/ZenSensi/issues/new?title=ttt%7Cmove%7C2&body=Just+press+%22Create%22.+The+bot+replies+in+about+30+seconds.">⬜</a></td></tr>
+<tr><td align="center" width="60" height="60"><a href="https://github.com/ZenSensi/ZenSensi/issues/new?title=ttt%7Cmove%7C3&body=Just+press+%22Create%22.+The+bot+replies+in+about+30+seconds.">⬜</a></td><td align="center" width="60" height="60"><a href="https://github.com/ZenSensi/ZenSensi/issues/new?title=ttt%7Cmove%7C4&body=Just+press+%22Create%22.+The+bot+replies+in+about+30+seconds.">⬜</a></td><td align="center" width="60" height="60"><a href="https://github.com/ZenSensi/ZenSensi/issues/new?title=ttt%7Cmove%7C5&body=Just+press+%22Create%22.+The+bot+replies+in+about+30+seconds.">⬜</a></td></tr>
+<tr><td align="center" width="60" height="60"><a href="https://github.com/ZenSensi/ZenSensi/issues/new?title=ttt%7Cmove%7C6&body=Just+press+%22Create%22.+The+bot+replies+in+about+30+seconds.">⬜</a></td><td align="center" width="60" height="60"><a href="https://github.com/ZenSensi/ZenSensi/issues/new?title=ttt%7Cmove%7C7&body=Just+press+%22Create%22.+The+bot+replies+in+about+30+seconds.">⬜</a></td><td align="center" width="60" height="60"><a href="https://github.com/ZenSensi/ZenSensi/issues/new?title=ttt%7Cmove%7C8&body=Just+press+%22Create%22.+The+bot+replies+in+about+30+seconds.">⬜</a></td></tr>
+</table>
+
+You are ❌. Click any ⬜ to play. The bot (⭕) answers in about 30 seconds.<br>
+Refresh the page to see its move.
+
+🏆 Visitors won: **0** &nbsp;|&nbsp; 🤖 Bot won: **0** &nbsp;|&nbsp; 🤝 Draws: **0**
+
+</div>
+
+**Last moves**
+- No moves yet. Be the first.
+<!-- TTT_END -->
+
+---
+
 ## 🌸 About Me
 
 - 🚀 Founder & CEO of **[Hubrave](#)** — a tech-driven digital agency
@@ -26,7 +52,7 @@
 <a href="https://www.linkedin.com/in/arnabhkushwaha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.reddit.com/user/ItzXZen/" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 <a href="https://x.com/arnabhkushwaha" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="zensensi.exe@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:zensensi.exe@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
