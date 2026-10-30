@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Arnabh Kushwaha - Full-stack developer, UI/UX designer, music artist Visxh"/>
+  <img src="./assets/header.svg" width="100%" alt="Arnabh Kushwaha - AI automation, web developer, music artist Visxh"/>
 </div>
 
 <br/>
 
-<img src="./assets/about.svg" width="100%" alt="Arnabh Kushwaha, 19, Lucknow. Founder of Hubrave. Full-stack developer (React, Next.js, Supabase, Node) building web products and AI automations. BCA Data Science & AI at SRMU. Smart India Hackathon 2026 - team Sentinels selected. Makes music as Visxh."/>
+<img src="./assets/about.svg" width="100%" alt="Arnabh Kushwaha, 19, Lucknow. Founder of Hubrave. Builds AI automations and agents (n8n, Make, Zapier, OpenAI, Claude, Gemini), plus websites and web apps (React, Next.js, Supabase, Node). BCA Data Science & AI at SRMU. Smart India Hackathon 2026 - team Sentinels selected. Makes music as Visxh."/>
 
 <br/><br/>
 
@@ -26,6 +26,24 @@
 <div align="center">
 
 <table>
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/n8n" width="44" height="44" alt="n8n"/><br/><sub>n8n</sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/make" width="44" height="44" alt="Make"/><br/><sub>Make</sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/zapier" width="44" height="44" alt="Zapier"/><br/><sub>Zapier</sub></td>
+    <td align="center" width="96"><img src="./assets/openai.svg" width="44" height="44" alt="OpenAI"/><br/><sub>OpenAI</sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/claude" width="44" height="44" alt="Claude"/><br/><sub>Claude</sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/googlegemini" width="44" height="44" alt="Gemini"/><br/><sub>Gemini</sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/langchain" width="44" height="44" alt="LangChain"/><br/><sub>LangChain</sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/huggingface" width="44" height="44" alt="Hugging Face"/><br/><sub>Hugging Face</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/ollama/000/fff" width="44" height="44" alt="Ollama"/><br/><sub>Ollama</sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/airtable" width="44" height="44" alt="Airtable"/><br/><sub>Airtable</sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/notion/000/fff" width="44" height="44" alt="Notion"/><br/><sub>Notion</sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/googlesheets" width="44" height="44" alt="Google Sheets"/><br/><sub>Google Sheets</sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/whatsapp" width="44" height="44" alt="WhatsApp"/><br/><sub>WhatsApp</sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/telegram" width="44" height="44" alt="Telegram"/><br/><sub>Telegram</sub></td>
+  </tr>
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="44" height="44" alt="HTML"/><br/><sub>HTML</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="44" height="44" alt="CSS"/><br/><sub>CSS</sub></td>

@@ -5,15 +5,16 @@ import random, html, textwrap
 
 # ---------------- CONTENT (edit this) ----------------
 NAME = "ARNABH KUSHWAHA"
-TAGLINE = "FULL-STACK DEV / UI-UX DESIGNER / VISXH"
+TAGLINE = "AI AUTOMATION / WEB DEV / VISXH"
 SECTIONS = [
     ("WHO I AM",
-     "Hey, I'm Arnabh - a 19-year-old developer and designer from Lucknow. I'm the founder of "
+     "Hey, I'm Arnabh - a 19-year-old AI automation builder and developer from Lucknow. I'm the founder of "
      "Hubrave, a tech-driven digital agency, and I'm studying BCA (Data Science & AI) at SRMU."),
     ("WHAT I DO",
-     "I build web products end to end - React / Next.js frontends, Supabase and Node backends - and "
-     "AI automations for real businesses, like voice call assistants and lead-response systems. "
-     "I design in Figma before I write code. My team Sentinels got selected in Smart India Hackathon 2026."),
+     "AI automation first: I build workflows and AI agents with n8n, Make and Zapier, wired to LLMs like "
+     "OpenAI, Claude and Gemini - voice call assistants, lead-response systems and ops automations for real "
+     "businesses. I also build the websites and web apps around them - React / Next.js frontends, Supabase "
+     "and Node backends, designed in Figma first. My team Sentinels got selected in Smart India Hackathon 2026."),
     ("VISION",
      "Build products people actually use and pay for, and grow Hubrave into a company that matters "
      "- not just another agency."),
