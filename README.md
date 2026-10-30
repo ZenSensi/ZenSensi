@@ -74,6 +74,16 @@
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="44" height="44" alt="AWS"/><br/><sub>AWS</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gcp" width="44" height="44" alt="GCP"/><br/><sub>GCP</sub></td>
   </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="44" height="44" alt="Docker"/><br/><sub>Docker</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="44" height="44" alt="Linux"/><br/><sub>Linux</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ubuntu" width="44" height="44" alt="Ubuntu"/><br/><sub>Ubuntu</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nginx" width="44" height="44" alt="Nginx"/><br/><sub>Nginx</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="44" height="44" alt="Express"/><br/><sub>Express</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="44" height="44" alt="PostgreSQL"/><br/><sub>PostgreSQL</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redis" width="44" height="44" alt="Redis"/><br/><sub>Redis</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="44" height="44" alt="Postman"/><br/><sub>Postman</sub></td>
+  </tr>
 </table>
 
 </div>
