@@ -17,7 +17,10 @@
 
 <br/>
 
-<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZenSensi/ZenSensi/output/pacman-contribution-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/ZenSensi/ZenSensi/output/pacman-contribution-graph.svg" width="100%" alt="Pacman contribution graph">
+</picture>
 
 <br/><br/>
 
